@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "279090861698",
+    "project_id": "inkflow-ee9db",
+    "storage_bucket": "inkflow-ee9db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279090861698:android:16cbb4f3248c4bb28e069b",
+        "android_client_info": {
+          "package_name": "com.ads.inkflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvHDlURO7jAOScR-bdD-EX6pZqK7Ckw0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
